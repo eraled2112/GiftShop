@@ -1,0 +1,45 @@
+# created by virtualenv automatically
+.venv/bin
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# tests and coverage
+*.pytest_cache
+.coverage
+.vscode
+# database & logs
+*.db
+*.sqlite3
+*.log
+
+# venv
+.env2
+.venv
+venv
+
+
+
+static/admin
+static/rest_framework
+
+# other
+.DS_Store
+
+# javascript
+package-lock.json
+
+.vscode/symbols.json
+
+/migrations/
+!**/migrations/__init__.py
+
+.env
+test.py
+.idea/
+
+
+data/cookies/
+/logs/
+media/
+
